@@ -1,6 +1,8 @@
 
 # C Single Linked List - Polynomial Addition | C语言单顺表 - 多项式加法
 
+#### Logically, it should combine two inserted array into one array. But i haven't / can't combine it yet
+
 #### 中文题目
 
 * 顺序表数据类型定义
