@@ -1,5 +1,5 @@
 
-# C Single Linked List - Polynomial Addition | C语言单顺表 - 多项式加法
+# Application of Sequence List - Polynomial Addition | C语言顺序表的应用——多项式加法
 
 #### Logically, it should combine two inserted array into one array. But i haven't / can't combine it yet
 
